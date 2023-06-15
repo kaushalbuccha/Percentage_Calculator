@@ -52,6 +52,7 @@ button{
     background-color: blueviolet;
     font-weight: 800;
     color: white;
+    border-radius: 10px;
 }
 
 #percentage{
